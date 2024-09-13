@@ -1,1 +1,1 @@
-# ml-lab-1
+# ml-labs
